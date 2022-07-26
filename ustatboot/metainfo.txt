@@ -1,0 +1,12 @@
+Name of Quantlet: 'ustatboot'
+
+Published in: 'UStatistics'
+
+Description: 'Example of bootstrap application to estimate performance measures of U-Statistics'
+
+Keywords: 'U, Statistic, bootstrap, performance measure, variance, bias, unbiased'
+
+Author: 'Lucas Valentin Umann'
+
+Submitted:  '26. 08. 2022'
+

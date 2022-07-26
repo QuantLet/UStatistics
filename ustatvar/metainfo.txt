@@ -1,0 +1,12 @@
+Name of Quantlet: 'ustatvar'
+
+Published in: 'UStatistics'
+
+Description: 'Comparison of variances of U-Statistics and alternative unbiased estimators'
+
+Keywords: 'U, Statistic, variance, bias, unbiased'
+
+Author: 'Lucas Valentin Umann'
+
+Submitted:  '26. 08. 2022'
+
